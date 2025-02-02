@@ -1,4 +1,4 @@
-# This website was created without JavaScript in mind.
+# This website was created without having JavaScript in mind.
 
 - A JavaScript dedicated project will be added to a different repository some time in the future.
 - The navigation bars were created with Bootstrap while the rest with HTML and CSS.
